@@ -175,7 +175,7 @@ function loadData(){
 
     
     // When the page is fully loaded
-    document.addEventListener('DOMContentLoaded', function(){ 
+    window.addEventListener('load', function(){ 
         setTimeout(() => {
             removePreload();
             setTimeout(() => {removeElementsByClass("preload");}, 2000);
