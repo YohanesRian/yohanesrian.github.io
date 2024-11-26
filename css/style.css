@@ -230,7 +230,6 @@ section {
 #home .image-me {
     position: absolute;
     bottom: -5vh;
-    margin-left: 3vw;
     height: min(85vh, 55vw);
     z-index: 150;
 }
@@ -320,7 +319,7 @@ section {
 #aboutme .image-me-bg {
     position: absolute;
     bottom: max(5vh, 3vw);
-    left: max(5vh, 3vw);
+    left: max(8vh, 4vw);
     background-color: var(--yellow);
     height: min(60vh, 40vw);
     width: min(45vw, 70vh);
