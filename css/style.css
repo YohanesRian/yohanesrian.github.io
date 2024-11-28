@@ -92,8 +92,8 @@ img {
 
 .text-4 {
     font-family: "Aero Matics", sans-serif;
-    font-size: min(min(4vh, 2.05vw), 12px);
-    line-height: calc(min(min(4vh, 2.05vw), 12px) * 1.3);
+    font-size: min(28px, max(10px, 3vh));
+    line-height: calc(min(28px, max(10px, 3vh)) * 1.3);
 }
 
 .text-5 {
