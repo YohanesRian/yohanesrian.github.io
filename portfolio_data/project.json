@@ -1,0 +1,78 @@
+[
+    {
+        "project-title": "STAGMAYA: Saint Agnes Catholic Senior High School Class Schedule Website",
+        "project-tag": {
+            "highlight": ["Front-End Website"],
+            "tags": ["HTML", "VanillaCSS", "Javascript", "GSAP"]
+        },
+        "project-preview": "https://yohanesrian.github.io/projects/STAGMAYA.lottie.json",
+        "project-background": "#4B4B4B",
+        "project-explanation": "STAGMAYA is a school lesson schedule website for Saint Agnes Catholic High School teachers and students. It uses Google Sheets as a database and Github Pages as hosting so that it is easy, cheap, and can be used dynamically and operated by teachers and students, both in viewing schedules and managing the Google Sheets database.",
+        "project-links": [
+            {
+                "title": "Website",
+                "url": "https://stagmaya.github.io/"
+            },
+            {
+                "title": "Repository",
+                "url": "https://github.com/stagmaya/stagmaya.github.io"
+            }
+        ]
+    },
+    {
+        "project-title": "YOURVAULT: Smart Public Locker",
+        "project-tag": {
+            "highlight": ["Computer Vision", "Internet of Things"],
+            "tags": ["Python", "Arduino", "C++", "Firebase"]
+        },
+        "project-preview": "https://yohanesrian.github.io/projects/YOURVAULT.lottie.json",
+        "project-background": "#F2E9DA",
+        "project-explanation": "YOURVAULT is an AI-based smart public locker that utilizes face recognition and hand detection technologies to identify users. It’s designed to assist individuals who have multiple belongings when visiting various locations, allowing them to securely store their items.",
+        "project-links": [
+            {
+                "title": "Demo Video",
+                "url": "https://youtu.be/nik0VTKC9Zo"
+            }
+        ]
+    },
+    {
+        "project-title": "LÁMORE: Outlet Fashion Store Membership App",
+        "project-tag": {
+            "highlight": ["Android"],
+            "tags": ["Java", "Firebase"]
+        },
+        "project-preview": "https://yohanesrian.github.io/projects/LAMORE.lottie.json",
+        "project-background": "#BF9C74",
+        "project-explanation": "LÁMORE is an Android application connected to Firebase for the clothing store membership program. It can display clothes purchased by customers in the store, store membership codes and points, and the physical locations of LÁMORE outlets.",
+        "project-links": [
+            {
+                "title": "Repository",
+                "url": "https://github.com/YohanesRian/LAMORE"
+            }
+        ]
+    },
+    {
+        "project-title": "H2OHUB: Smart Water Dispenser",
+        "project-tag": {
+            "highlight": ["Android", "Internet of Things"],
+            "tags": ["Java", "Arduino", "C++"]
+        },
+        "project-preview": "https://yohanesrian.github.io/projects/H2OHUB.lottie.json",
+        "project-background": "#598180",
+        "project-explanation": "H2OHUB is an Android application for a smart water dispenser to monitor daily hydration. It allows users to control the H2OHUB smart dispenser, set daily drinking goals, and store their hydration data.",
+        "project-links": [
+            {
+                "title": "Repository",
+                "url": "https://github.com/YohanesRian/H2OHUB_App"
+            },
+            {
+                "title": "Paper",
+                "url": "https://ieeexplore.ieee.org/document/10326772"
+            },
+            {
+                "title": "Demo Video",
+                "url": "https://youtu.be/hAPrXjkRPKQ"
+            }
+        ]
+    }
+]
