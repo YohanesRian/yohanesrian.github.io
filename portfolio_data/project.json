@@ -30,12 +30,12 @@
         "project-explanation": "YOURVAULT is an AI-based smart public locker that utilizes face recognition and hand detection technologies to identify users. It’s designed to assist individuals who have multiple belongings when visiting various locations, allowing them to securely store their items.",
         "project-links": [
             {
-                "title": "Demo Video",
-                "url": "https://youtu.be/nik0VTKC9Zo"
-            }, 
-            {
                 "title": "DOI",
                 "url": "http://doi.org/10.11591/ijai.v14.i4.pp3262-3273"
+            },
+            {
+                "title": "Demo Video",
+                "url": "https://youtu.be/nik0VTKC9Zo"
             }
         ]
     },
