@@ -32,6 +32,10 @@
             {
                 "title": "Demo Video",
                 "url": "https://youtu.be/nik0VTKC9Zo"
+            }, 
+            {
+                "title": "DOI",
+                "url": "http://doi.org/10.11591/ijai.v14.i4.pp3262-3273"
             }
         ]
     },
@@ -66,8 +70,8 @@
                 "url": "https://github.com/YohanesRian/H2OHUB_App"
             },
             {
-                "title": "Paper",
-                "url": "https://ieeexplore.ieee.org/document/10326772"
+                "title": "DOI",
+                "url": "https://doi.org/10.1109/ICONDBTM59210.2023.10326772"
             },
             {
                 "title": "Demo Video",
