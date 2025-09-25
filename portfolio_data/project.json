@@ -2,7 +2,7 @@
     {
         "project-title": "STAGMAYA: Saint Agnes Catholic Senior High School Class Schedule Website",
         "project-tag": {
-            "highlight": ["Front-End Website"],
+            "highlight": ["Full-Stack Website"],
             "tags": ["React.js", "Next.js", "TailwindCSS", "TypeScript", "GSAP"]
         },
         "project-preview": "https://yohanesrian.github.io/projects/STAGMAYA.lottie.json",
