@@ -3,11 +3,11 @@
         "project-title": "STAGMAYA: Saint Agnes Catholic Senior High School Class Schedule Website",
         "project-tag": {
             "highlight": ["Front-End Website"],
-            "tags": ["HTML", "VanillaCSS", "Javascript", "GSAP"]
+            "tags": ["React.js", "Next.js", "TailwindCSS", "TypeScript", "GSAP"]
         },
         "project-preview": "https://yohanesrian.github.io/projects/STAGMAYA.lottie.json",
         "project-background": "#4B4B4B",
-        "project-explanation": "STAGMAYA is a school lesson schedule website for Saint Agnes Catholic High School teachers and students. It uses Google Sheets as a database and Github Pages as hosting so that it is easy, cheap, and can be used dynamically and operated by teachers and students, both in viewing schedules and managing the Google Sheets database.",
+        "project-explanation": "STAGMAYA is a school scheduling platform website for Saint Agnes Catholic High School teachers and students. It uses Google Sheets as a database so that it is easy and can be used dynamically and operated by teachers and students, both in viewing and managing the schedules.",
         "project-links": [
             {
                 "title": "Website",
